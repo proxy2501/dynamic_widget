@@ -1,7 +1,7 @@
 name: dynamic_widget
 description: Custom variant of the dynamic_widget package that addresses some compatibility issues with the project in which it is used.
 homepage: https://github.com/dengyin2000/dynamic_widget
-version: 4.0.5
+version: 4.0.6
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
