@@ -73,7 +73,7 @@ class DynamicWidgetBuilder {
     OpacityWidgetParser(),
     WrapWidgetParser(),
     DropCapTextParser(),
-    IconWidgetParser(),
+    // IconWidgetParser(),
     ClipRRectWidgetParser(),
     SafeAreaWidgetParser(),
     ListTileWidgetParser(),
